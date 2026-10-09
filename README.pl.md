@@ -8,20 +8,20 @@
 
 ## O projekcie
 
-Technolutions AI SEO to aplikacja komercyjna przygotowana przeze mnie i mojego brata dla klienta biznesowego. **Ja odpowiadałem za backend i automatyzacje, a mój brat za frontend.** Zajmowałem się także integracjami oraz stabilnością procesu rozwoju i wdrażania aplikacji.
+Technolutions AI SEO to aplikacja komercyjna opracowana przez dwuosobowy zespół dla klienta biznesowego. **Ja odpowiadałem za backend i automatyzacje, a Bartosz Drozd za frontend.** Zajmowałem się także integracjami oraz stabilnością procesu rozwoju i wdrażania aplikacji.
 
 To repozytorium stanowi **publiczny opis projektu do portfolio**, a nie kopię produktu. **Nie zawiera kodu źródłowego aplikacji, danych dostępowych, wewnętrznej konfiguracji ani danych klienta**.
 
 ## Zespół i podział odpowiedzialności
 
-Aplikację dla płacącego klienta biznesowego tworzyliśmy **wspólnie z moim bratem**, z wyraźnym podziałem głównych obowiązków:
+Aplikację dla płacącego klienta biznesowego tworzyliśmy **w dwuosobowym zespole**, z wyraźnym podziałem głównych obowiązków:
 
 | Osoba | Główna odpowiedzialność | Profile |
 | --- | --- | --- |
 | **[@socir9](https://github.com/socir9) — ja** | **Backend, API, automatyzacje, integracje, zadania w tle oraz prace nad CI/CD i wdrożeniami backendu** | [GitHub](https://github.com/socir9) |
-| **Bartosz Drozd ([@uxdrozd-maker](https://github.com/uxdrozd-maker)) — mój brat** | **Frontend, interfejs użytkownika i warstwa wizualna aplikacji** | [GitHub](https://github.com/uxdrozd-maker) · [LinkedIn](https://www.linkedin.com/in/bartosz-drozd-designer/) |
+| **Bartosz Drozd ([@uxdrozd-maker](https://github.com/uxdrozd-maker)) — Frontend Developer** | **Frontend, interfejs użytkownika i warstwa wizualna aplikacji** | [GitHub](https://github.com/uxdrozd-maker) · [LinkedIn](https://www.linkedin.com/in/bartosz-drozd-designer/) |
 
-**To portfolio koncentruje się na mojej pracy nad backendem i automatyzacjami.** Za frontend odpowiadał przede wszystkim mój brat — nie przedstawiam jego pracy jako własnej.
+**To portfolio koncentruje się na mojej pracy nad backendem i automatyzacjami.** Za frontend odpowiadał przede wszystkim Bartosz — opis wyraźnie oddziela nasze wkłady.
 
 ## Zakres moich prac
 
