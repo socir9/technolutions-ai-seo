@@ -1,6 +1,6 @@
 # Technolutions AI SEO
 
-### Commercial project · Backend Engineering & Automation
+### Commercial client project · Backend & Frontend delivered by a two-person team
 
 **Role:** Backend Developer · Automation & CI/CD  
 **Project type:** Client-delivered commercial application  
@@ -8,9 +8,20 @@
 
 ## Overview
 
-Technolutions AI SEO is a commercial application delivered for a business client. My work focused on backend development, automation, integrations, and the reliability of the development and deployment process.
+Technolutions AI SEO is a commercial application built by my brother and me for a business client. **I was responsible for the backend and automation, while my brother was responsible for the frontend.** My work focused on backend development, integrations, and the reliability of the development and deployment process.
 
 This repository is a **public portfolio case study**, not a copy of the commercial product. It contains **no application source code, credentials, internal configuration, or client data**.
+
+## Project team & ownership
+
+This application was built for a paying business client by a two-person development team: **my brother and me**. We had clearly defined primary responsibilities:
+
+| Team member | Main responsibility | Public profiles |
+| --- | --- | --- |
+| **[@socir9](https://github.com/socir9) — me** | **Backend engineering, APIs, automation, integrations, background jobs, and backend-oriented CI/CD and deployment work** | [GitHub](https://github.com/socir9) |
+| **Bartosz Drozd ([@uxdrozd-maker](https://github.com/uxdrozd-maker)) — my brother** | **Frontend development, user-facing interface and application UI** | [GitHub](https://github.com/uxdrozd-maker) · [LinkedIn](https://www.linkedin.com/in/bartosz-drozd-designer/) |
+
+**My portfolio focuses on the backend and automation work I was responsible for.** Frontend development was primarily my brother's responsibility; this README does not present his work as mine.
 
 ## My responsibilities
 
@@ -45,5 +56,6 @@ The original project is maintained in a non-public GitHub Enterprise organizatio
 
 ---
 
-**GitHub:** [@socir9](https://github.com/socir9)  
+**Backend & automation — GitHub:** [@socir9](https://github.com/socir9)  
+**Frontend — GitHub:** [@uxdrozd-maker](https://github.com/uxdrozd-maker) · **LinkedIn:** [Bartosz Drozd](https://www.linkedin.com/in/bartosz-drozd-designer/)  
 **Portfolio scope:** A description of professional contributions only; not a runnable application or an open-source release.
