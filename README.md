@@ -10,7 +10,7 @@
 
 Technolutions AI SEO is a commercial application developed by a two-person team for a business client. **I was responsible for backend development and automation, while Bartosz Drozd was responsible for frontend development.** My work focused on backend development, integrations, and the reliability of the development and deployment process.
 
-This repository is a **public portfolio case study**, not a copy of the commercial product. It contains **no application source code, credentials, internal configuration, or client data**.
+This repository publicly documents the **real, actively used commercial product**; it is not a copy of its private source repository. It contains **no application source code, credentials, internal configuration, or client data**.
 
 ## Project team & ownership
 
@@ -21,7 +21,7 @@ This application was built for a paying business client by a **two-person develo
 | **[@socir9](https://github.com/socir9) — me** | **Backend engineering, APIs, automation, integrations, background jobs, and backend-oriented CI/CD and deployment work** | [GitHub](https://github.com/socir9) |
 | **Bartosz Drozd ([@uxdrozd-maker](https://github.com/uxdrozd-maker)) — Frontend Developer** | **Frontend development, user-facing interface and application UI** | [GitHub](https://github.com/uxdrozd-maker) · [LinkedIn](https://www.linkedin.com/in/bartosz-drozd-designer/) |
 
-**My portfolio focuses on the backend and automation work I was responsible for.** Frontend development was primarily Bartosz's responsibility; this README distinguishes our contributions.
+**This description focuses on the backend and automation work I was responsible for.** Frontend development was primarily Bartosz's responsibility; this README distinguishes our contributions.
 
 ## My responsibilities
 
@@ -58,4 +58,4 @@ The original project is maintained in a non-public GitHub Enterprise organizatio
 
 **Backend & automation — GitHub:** [@socir9](https://github.com/socir9)  
 **Frontend — GitHub:** [@uxdrozd-maker](https://github.com/uxdrozd-maker) · **LinkedIn:** [Bartosz Drozd](https://www.linkedin.com/in/bartosz-drozd-designer/)  
-**Portfolio scope:** A description of professional contributions only; not a runnable application or an open-source release.
+**Repository scope:** Public technical documentation of a live commercial application; not a source-code distribution or open-source release.
